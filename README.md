@@ -9,3 +9,4 @@ It uses a regular expression to identify files with names that match a specific 
 ```
 - -directory: Path to the folder you want to scan.
 - -outputFile: Path to the folder where the .csv report will be saved.
+<img src="https://i.ibb.co/svj6vTRG/PS1.png" alt="PS1" border="0">
